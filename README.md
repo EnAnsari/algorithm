@@ -1,2 +1,3 @@
 # algorithm
-in this repo is my code about algorithms
+
+this repository is update coming soon . . . 
